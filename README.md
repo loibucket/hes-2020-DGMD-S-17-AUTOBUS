@@ -54,7 +54,8 @@ Week 7. Document results
 
 **8. Other comments:**
 
-**TODO LIST**
+**TODO LIST**\
+\
 All: Setup Jebot\
 Sub-tasks:\
 a) Make jetbot follow a line\
