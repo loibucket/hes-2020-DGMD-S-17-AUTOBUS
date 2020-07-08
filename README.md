@@ -14,7 +14,7 @@ Nathanaiel Landi
 
 **3. Goal of the Project:** (Describe here which autonomous navigation challenge you want to solve: example: lane following with collision avoidance, solving intersections, April tags, follow an object, slam etc...)
 
-A proof of concept autonomous virtual rail shuttle system with a waveshare jetbot.  The shuttle runs on dedicated paths, and follows visual "rail" lines, instead of actual steel rails.  The project would involve building a reliable lane following system that can be operated 24/7.  Special markers at stations is recognized by the shuttle to make automated stops and departures.  The shuttle should have frontal obstacle detection and can make emergency stops as needed.  Additional features like multiple routes, express/local shuttles, hub stations, may also be implemented
+A proof of concept autonomous virtual rail shuttle system with a NVIDIA waveshare jetbot.  The shuttle runs on dedicated paths, and follows visual "rail" lines, instead of actual steel rails.  The project would involve building a reliable lane following system that can be operated 24/7.  Special markers at stations is recognized by the shuttle to make automated stops and departures.  The shuttle should have frontal obstacle detection and can make emergency stops as needed.  Additional features like multiple routes, express/local shuttles, hub stations, may also be implemented
 
 **4. Software and Developing tools:**
 
