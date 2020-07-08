@@ -12,7 +12,8 @@ Shutte - carries people from point A to point B to point C,
 Loi Cheng\
 Philip Eisner\
 Nathanaiel Landi\
-Eric Ding
+Eric Ding\
+Yikun Shen
 
 **3. Goal of the Project:** (Describe here which autonomous navigation challenge you want to solve: example: lane following with collision avoidance, solving intersections, April tags, follow an object, slam etc...)
 
