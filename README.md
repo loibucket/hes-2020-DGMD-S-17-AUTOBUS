@@ -2,8 +2,8 @@
 2020 DGMDS17 Robotics, Autonomous Vehicles, Drones, and Artificial Intelligence @ Harvard University Extension School
 
 BASIC - uses single camera, no complicated LIDARs or multiple camera systems \
-Universal - can be built anywhere, on any existing roads, just paint some lines \
-Shutte - carries people from point A to point B to point C \
+Universal - can run in any country, just paint some lines \
+Shutte - carries people from point A to point B to point C
 
 **1. Team Name: AutoBUS**
 
