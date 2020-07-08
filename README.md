@@ -3,7 +3,7 @@
 
 Autonomous - level 5 no human involvement, besides an emergency stop button \
 Basic - uses single camera, no complicated LIDARs or multiple camera systems \
-Universal - non-proprietary, can be set up in any country, just paint some lines \
+Universal - non-proprietary, can be set up almost anywhere \
 Shutte - carries people from point A to point B to point C
 
 **1. Team Name: AutoBUS**
