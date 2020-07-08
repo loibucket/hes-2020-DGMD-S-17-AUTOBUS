@@ -55,7 +55,7 @@ Week 7. Document results
 
 **8. Other comments:**
 
-**TODO LIST (SCRUM?)**\
+**TODO LIST**\
 \
 All: Setup Jebot, to at least run on manual mode\
 \
