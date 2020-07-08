@@ -1,7 +1,7 @@
 # AutoBUS : Autonomous Basic Universal Shuttle
 2020 DGMDS17 Robotics, Autonomous Vehicles, Drones, and Artificial Intelligence @ Harvard University Extension School
 
-Autonomous - level 5 no human involvement, besides an emergency stop button
+Autonomous - level 5 no human involvement, besides an emergency stop button \
 Basic - uses single camera, no complicated LIDARs or multiple camera systems \
 Universal - can run in any country, just paint some lines \
 Shutte - carries people from point A to point B to point C
