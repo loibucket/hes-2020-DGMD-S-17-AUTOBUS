@@ -56,7 +56,9 @@ Week 7. Document results
 
 **TODO LIST**\
 \
-\Have 1-2 members individually solve each task
+\
+Have 1-2 members individually solve each task\
+\
 All: Setup Jebot\
 Sub-tasks, required:\
 a) Make jetbot follow a line, and design the line, ex. color, thickness, uniqueness, etc.\
