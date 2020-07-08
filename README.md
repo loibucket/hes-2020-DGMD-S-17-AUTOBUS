@@ -54,7 +54,7 @@ Week 7. Document results
 
 **8. Other comments:**
 
-**TODO LIST**\
+**TODO LIST (SCRUM?)**\
 \
 Have 1-2 members individually solve each task\
 \
