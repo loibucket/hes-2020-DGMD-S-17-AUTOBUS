@@ -77,4 +77,5 @@ i) Weather situations, ex. snow, partially blocked markings\
 j) Run continously, go to depot station on low battery\
 k) Design routes prototypes based on some city, eg Boston red/green/blue line, NYC ACE 123 456 7, assign 1-3 jetbot to each route, assign jetbot as local or express, etc..\
 l) Schedule jetbots to run different routes by time of day\
+j) Automatic recharge at depot station\
 etc...\
