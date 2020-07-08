@@ -69,4 +69,5 @@ f) Program each jetbot to follow different color line\
 g) Differentiate each station by markings, ex. name, local or express stop (stop if time is ???, else skip station, or stop if bot is local, skip if bot is express)\
 h) Improve speed\
 i) Weather situations, ex. snow, partially blocked markings\
+j) Run continously, go to depot station on low battery\
 etc...\
