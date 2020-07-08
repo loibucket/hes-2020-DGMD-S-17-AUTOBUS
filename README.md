@@ -1,10 +1,10 @@
-# AutoBUS : Autonomous Basic Universal Shuttle / Virtual Rail System
+# AutoBUS VR: Autonomous Basic Universal Shuttle / Virtual Rail System
 2020 DGMDS17 Robotics, Autonomous Vehicles, Drones, and Artificial Intelligence @ Harvard University Extension School
 
-Autonomous - level 5 no human involvement, besides an emergency stop button \
-Basic - uses single camera, no complicated LIDARs or multiple camera systems \
-Universal - non-proprietary, can be set up almost anywhere, can replace buses, trains, subways, etc.., quickly adjust capacity/frequency by adding/reducing number of cars running on demand, the future of mass public transit \
-Shutte - carries people from point A to point B to point C, 
+**Autonomous** - level 5 no human involvement, besides an emergency stop button \
+**Basic** - uses single camera, no complicated LIDARs or multiple camera systems \
+**Universal** - non-proprietary, can replace buses, trains, subways, etc.., quickly adjust capacity/frequency by adding/reducing number of cars running on demand, the future of mass public transit \
+**Shutte** - carries people from point A to point B to point C, 
 
 **1. Team Name: AutoBUS**
 
