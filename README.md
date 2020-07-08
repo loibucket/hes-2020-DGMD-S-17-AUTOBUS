@@ -59,7 +59,7 @@ Week 7. Document results
 \
 Have 1-2 members individually solve each task\
 \
-All: Setup Jebot\
+All: Setup Jebot, to at least run on manual mode\
 Sub-tasks, required:\
 a) Make jetbot follow a line, and design the line, ex. color, thickness, uniqueness, etc.\
 b) Make jetbot recognize special markings on floor or on standing sign, and design the markings\
