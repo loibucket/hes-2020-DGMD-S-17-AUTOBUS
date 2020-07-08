@@ -31,7 +31,7 @@ NVIDIA Jetson and Jetbot System with Camera
 
 **6. Team Meeting Schedule: (tentative hours to meet with your team every week)**
 
-Wednesday 3pm
+As needed, otherwise use Slack
 
 **7. List of Milestones, week by week:**
 
