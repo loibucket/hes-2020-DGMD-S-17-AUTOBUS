@@ -73,5 +73,6 @@ g) Differentiate each station by markings, ex. name, local or express stop (stop
 h) Improve speed\
 i) Weather situations, ex. snow, partially blocked markings\
 j) Run continously, go to depot station on low battery\
-h) Design routes prototypes based on some city, eg Boston red/green/blue line, NYC ACE 123 456 7, assign 1-3 jetbot to each route, assign jetbot as local or express, etc..
+k) Design routes prototypes based on some city, eg Boston red/green/blue line, NYC ACE 123 456 7, assign 1-3 jetbot to each route, assign jetbot as local or express, etc..
+l) Schedule jetbots to run different routes by time of day\
 etc...\
