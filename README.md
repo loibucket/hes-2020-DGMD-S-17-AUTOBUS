@@ -7,9 +7,9 @@ Shutte - carries people from point A to point B to point C
 
 **1. Team Name: AutoBUS**
 
-**2. Team Members and Roles:**
-Loi Cheng
-Philip Eisner
+**2. Team Members and Roles:**\
+Loi Cheng\
+Philip Eisner\
 Nathanaiel Landi
 
 **3. Goal of the Project:** (Describe here which autonomous navigation challenge you want to solve: example: lane following with collision avoidance, solving intersections, April tags, follow an object, slam etc...)
