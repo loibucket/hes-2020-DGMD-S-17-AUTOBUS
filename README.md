@@ -1,4 +1,4 @@
-# AutoBUS VR: Autonomous Basic Universal Shuttle / Virtual Rail System
+# AutoBUS/VR: Autonomous Basic Universal Shuttle / Virtual Rail System
 2020 DGMDS17 Robotics, Autonomous Vehicles, Drones, and Artificial Intelligence @ Harvard University Extension School
 
 **Autonomous** - level 5 no human involvement, besides an emergency stop button \
