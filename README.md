@@ -56,7 +56,6 @@ Week 7. Document results
 
 **TODO LIST**\
 \
-\
 Have 1-2 members individually solve each task\
 \
 All: Setup Jebot, to at least run on manual mode\
@@ -70,8 +69,9 @@ e) Add "emergency stop" button somewhere in code\
 \
 Sub-tasks, optional\
 f) Program each jetbot to follow different color line\
-g) Differentiate each station by markings, ex. name, local or express stop (stop if time is ???, else skip station, or stop if bot is local, skip if bot is express)\
+g) Differentiate each station by markings, ex. name, local or express stop (stop if time is ???, else skip station, or stop if bot is local, skip if bot is express), annouce station stops over speakers...This is xx train...next stop is...transfer available to the...shuttles...\
 h) Improve speed\
 i) Weather situations, ex. snow, partially blocked markings\
 j) Run continously, go to depot station on low battery\
+h) Design routes prototypes based on some city, eg Boston red/green/blue line, NYC ACE 123 456 7, assign 1-3 jetbot to each route, assign jetbot as local or express, etc..
 etc...\
