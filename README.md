@@ -1,7 +1,8 @@
 # AutoBUS : Autonomous Basic Universal Shuttle
 2020 DGMDS17 Robotics, Autonomous Vehicles, Drones, and Artificial Intelligence @ Harvard University Extension School
 
-BASIC - uses single camera, no complicated LIDARs or multiple camera systems \
+Autonomous - level 5 no human involvement, besides an emergency stop button
+Basic - uses single camera, no complicated LIDARs or multiple camera systems \
 Universal - can run in any country, just paint some lines \
 Shutte - carries people from point A to point B to point C
 
@@ -10,7 +11,8 @@ Shutte - carries people from point A to point B to point C
 **2. Team Members and Roles:**\
 Loi Cheng\
 Philip Eisner\
-Nathanaiel Landi
+Nathanaiel Landi\
+Eric Ding
 
 **3. Goal of the Project:** (Describe here which autonomous navigation challenge you want to solve: example: lane following with collision avoidance, solving intersections, April tags, follow an object, slam etc...)
 
