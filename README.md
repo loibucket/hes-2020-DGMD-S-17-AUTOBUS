@@ -61,7 +61,7 @@ All: Setup Jebot, to at least run on manual mode\
 \
 Have 1-2 members individually solve each sub-task\
 \
-Sub-tasks, required mininum features:\
+*Sub-tasks, required mininum features:*\
 a) Make jetbot follow a line, and design the line, ex. color, thickness, uniqueness, etc.\
 b) Make jetbot recognize special markings on floor or on standing sign, and design the markings\
 c) Make jetbot go, stop for x secs, and go again\
@@ -69,7 +69,7 @@ d) Make jetbot stop if obstacle is detected, start again if obstacle is cleared,
 d.optional) distinguish between waiting for another jetbot ahead, or a person, or animal, etc..
 e) Add "emergency stop" button somewhere in code\
 \
-Sub-tasks, optional, advanced features\
+*Sub-tasks, optional, advanced features*\
 f) Program each jetbot to follow different color line\
 g) Differentiate each station by markings, ex. name, local or express stop (stop if time is ???, else skip station, or stop if bot is local, skip if bot is express), annouce station stops over speakers...This is xx train...next stop is...transfer available to the...shuttles...\
 h) Improve speed\
