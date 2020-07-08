@@ -56,12 +56,14 @@ Week 7. Document results
 
 **TODO LIST**\
 \
+\Have 1-2 members individually solve each task
 All: Setup Jebot\
 Sub-tasks, required:\
-a) Make jetbot follow a line\
-b) Make jetbot recognize special markings on floor or on standing sign\
+a) Make jetbot follow a line, and design the line, ex. color, thickness, uniqueness, etc.\
+b) Make jetbot recognize special markings on floor or on standing sign, and design the markings\
 c) Make jetbot go, stop for x secs, and go again\
 d) Make jetbot stop if obstacle is detected, start again if obstacle is cleared, (ex. another jetbot stopped at station in front)\
+d.optional) distinguish between waiting for another jetbot ahead, or a person, or animal, etc..
 e) Add "emergency stop" button somewhere in code\
 \
 Sub-tasks, optional\
