@@ -1,4 +1,4 @@
-# autoBUS
+# AutoBUS (B...U...Shuttle)
 2020 DGMDS17 AutoBUS - Autonomous Shuttles on Virtual Rails
 
 **1. Team Name: AutoBUS**
