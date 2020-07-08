@@ -1,4 +1,4 @@
-# AutoBUS : Autonomous Basic Universal Shuttle \
+# AutoBUS : Autonomous Basic Universal Shuttle
 2020 DGMDS17 AutoBUS \
 BASIC - uses single camera, no complicated LIDARs or multiple camera systems \
 Universal - can be built anywhere, on any existing roads, just paint some lines \
