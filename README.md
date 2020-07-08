@@ -53,3 +53,18 @@ Week 6. Demonstration
 Week 7. Document results
 
 **8. Other comments:**
+
+**TODO LIST**
+All: Setup Jebot
+Sub-tasks:
+a) Make jetbot follow a line
+b) Make jetbot recognize special markings on floor or on standing sign
+c) Make jetbot go, stop for x secs, and go again
+d) Make jetbot stop if obstacle is detected, start again if obstacle is cleared, (ex. another jetbot stopped at station in front)
+e) Add "emergency stop" button somewhere in code
+...optional
+f) Program each jetbot to follow different color line
+g) Differentiate each station by markings, ex. name, local or express stop (stop if time is ???, else skip station, or stop if bot is local, skip if bot is express)
+h) Improve speed
+i) Weather situations, ex. snow, partially blocked markings
+etc...
