@@ -1,25 +1,28 @@
 # AutoBUS/VRS: Autonomous Basic Universal Shuttle / Virtual Rail System
 2020 DGMDS17 Robotics, Autonomous Vehicles, Drones, and Artificial Intelligence @ Harvard University Extension School
 
-**Autonomous** - level 5 no human involvement, besides an emergency stop button \
-**Basic** - uses single camera, no complicated LIDARs or multiple camera systems \
-**Universal** - non-proprietary, can replace buses, trains, subways, etc.., quickly adjust capacity/frequency by adding/reducing number of cars running on demand, the future of mass public transit \
-**Shutte** - carries people from point A to point B to point C, 
+## 1. Proposed Topic Summary
 
-**1. Team Name: AutoBUS/VRS**
+**Assignment:** Final Project Proposal \
+**Course:** Robotics, Autonomous Vehicles, Drones, and Artificial Intelligence: DGMD S-17 (34560) \
+**Course Instructor:** Professor Jose Luis Ramirez Herran \
+**Term:** Summer 2020 \
+**Team Name:** AutoBUS/VRS \
+**Team Members:** Loi Cheng (Team Lead), Eric Ding, Philip Eisner, Nathaniel Landi \
+**Last Edit Date:** 08 July 2020 \
 
-**2. Team Members and Roles:**\
-Loi Cheng\
-Philip Eisner\
-Nathanaiel Landi\
-Eric Ding\
-Yikun Shen
+**Problem Statement (Purpose):** Most trains have frequent delays, cannot achieve higher speeds and cannot maximize the optimal number of trains in a route at a time. Most trains are manually operated by people with low autonomous components involved. \
+**Outcomes (Why?):** “Autonomous trains can run more frequently and achieve higher speeds, enabling managers to increase the number of trains in operation on a route instead of having to go to the significant expense of building new tracks.” <sup>1</sup> \
+**Objectives (What?):** Build a proof of concept (POC) Autonomous Basic Universal Shuttle/Virtual Rail System (AutoBUS/VRS) using an Artificial Intelligence (AI) System integrated on an NVIDIA Waveshare JetBot. \
+**Key Results (How?):** TBD – Insert overview of methods and techniques used. \
+**Project Summary:** An AutoBUS/VRS POC is built with NVIDIA hardware and NVIDIA software enhanced with an AI System to run on dedicated paths. The AutoBUS/VRS follows visual "rail" lines, instead of actual steel rails. Building a reliable lane following system operating 24/7 is required. Special markers at stations are recognized by the shuttle to make automated stops and departures. The shuttle should have frontal obstacle detection and can make emergency stops as needed. Additional features like multiple routes, express/local shuttles and hub stations are implemented. The core of the AutoBUS/VRS can be described as: \
 
-**3. Goal of the Project:** (Describe here which autonomous navigation challenge you want to solve: example: lane following with collision avoidance, solving intersections, April tags, follow an object, slam etc...)
+- **Autonomous** - level 5 no human involvement, besides an emergency stop button \
+- **Basic** - uses single camera, no complicated LIDARs or multiple camera systems \
+- **Universal** - non-proprietary, can replace buses, trains, subways, etc.., quickly adjust capacity/frequency by adding/reducing number of cars running on demand, the future of mass public transit \
+- **Shuttle** - carries people from point A to point B to point C, 
 
-A proof of concept autonomous virtual rail shuttle system with a NVIDIA waveshare jetbot.  The shuttle runs on dedicated paths, and follows visual "rail" lines, instead of actual steel rails.  The project would involve building a reliable lane following system that can be operated 24/7.  Special markers at stations is recognized by the shuttle to make automated stops and departures.  The shuttle should have frontal obstacle detection and can make emergency stops as needed.  Additional features like multiple routes, express/local shuttles, hub stations, may also be implemented
-
-**4. Software and Developing tools:**
+## 2. Software and Developing tools:
 
 Anaconda, Jupyter Notebooks, Python
 
@@ -29,15 +32,15 @@ https://github.com/loibucket/autobus/
 
 b. any other tools? (example: dropbox, google drive, slack, google collab, etc.)
 
-**5. Hardware used:**
+## 5. Hardware used:
 
 NVIDIA Jetson and Jetbot System with Camera
 
-**6. Team Meeting Schedule: (tentative hours to meet with your team every week)**
+## 6. Team Meeting Schedule: (tentative hours to meet with your team every week)
 
 As needed, otherwise use Slack
 
-**7. List of Milestones, week by week:**
+## 7. List of Milestones, week by week:
 
 Week 1. Setting up a laptop, developing environment, build robot, operate the robot.
 
@@ -53,7 +56,13 @@ Week 6. Demonstration
 
 Week 7. Document results
 
-**8. Other comments:**
+## 8. Other comments:
+
+TBD
+
+## 9. References:
+
+1. https://future-markets-magazine.com/en/markets-technology-en/autonomous-trains/#:~:text=Autonomous%20trains%20can%20run%20more,expense%20of%20building%20new%20tracks.
 
 **TODO LIST**\
 \
