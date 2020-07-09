@@ -9,7 +9,7 @@
 **Term:** Summer 2020 \
 **Team Name:** AutoBUS/VRS \
 **Team Members:** Loi Cheng (Team Lead), Eric Ding, Philip Eisner, Nathaniel Landi, Yikun Shen \
-**Last Edit Date:** 09 July 2020 \
+**Last Edit Date:** 09 July 2020
 
 **Problem Statement (Purpose):** Most trains have frequent delays, cannot achieve higher speeds and cannot maximize the optimal number of trains in a route at a time. Most trains are manually operated by people with low autonomous components involved. \
 **Outcomes (Why?):** “Autonomous trains can run more frequently and achieve higher speeds, enabling managers to increase the number of trains in operation on a route instead of having to go to the significant expense of building new tracks.” <sup>1</sup> \
