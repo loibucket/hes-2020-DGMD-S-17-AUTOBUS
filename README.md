@@ -1,6 +1,11 @@
 # AutoBUS/VRS: Autonomous Basic Universal Shuttle / Virtual Rail System
 2020 DGMDS17 Robotics, Autonomous Vehicles, Drones, and Artificial Intelligence @ Harvard University Extension School
 
+**Final Project Overview:** The objective of the final project is to take a deep dive in one topic of interest. You’ll practice: project development, collaboration, documentation, system integration. We encourage students to work in teams of 3 or 4 members. With team work you may be able to advance faster in the problem you will trying to solve and have an enriched experience very useful in the future. We can identify 4 areas for research projects:
+- Area 1. Your project is on the applying the fundamentals of navigation based in vision applied to autonomous cars, including: feature extraction, image filtering, line detection, place recognition, camera calibration, object recognition, object tracking, line following, navigation, localization.
+- Area 2. You are interested in solving the mapping problem (notice that you can navigate without constructing a map) including: SLAM, Motion planning, testing, validation and verification.
+- Area 3. You want to work in a problem involving multiple vehicles including: Fleet level planning, multi-vehicle coordination.
+
 ## 1. Proposed Topic Summary
 
 **Assignment:** Final Project Proposal \
