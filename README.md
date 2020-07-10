@@ -12,9 +12,13 @@
 **Last Edit Date:** 09 July 2020
 
 **Problem Statement (Purpose):** Most trains have frequent delays, cannot achieve higher speeds and cannot maximize the optimal number of trains in a route at a time. Most trains are manually operated by people with low autonomous components involved. \
+
 **Outcomes (Why?):** “Autonomous trains can run more frequently and achieve higher speeds, enabling managers to increase the number of trains in operation on a route instead of having to go to the significant expense of building new tracks.” <sup>1</sup> \
+
 **Objectives (What?):** Build a proof of concept (POC) Autonomous Basic Universal Shuttle/Virtual Rail System (AutoBUS/VRS) using an Artificial Intelligence (AI) System integrated on an NVIDIA Waveshare JetBot. \
+
 **Key Results (How?):** TBD – Insert overview of methods and techniques used. \
+
 **Project Summary:** An AutoBUS/VRS POC is built with NVIDIA hardware and NVIDIA software enhanced with an AI System to run on dedicated paths. The AutoBUS/VRS follows visual "rail" lines, instead of actual steel rails. Building a reliable lane following system operating 24/7 is required. Special markers at stations are recognized by the shuttle to make automated stops and departures. The shuttle should have frontal obstacle detection and can make emergency stops as needed. Additional features like multiple routes, express/local shuttles and hub stations are implemented. The core of the AutoBUS/VRS can be described as:
 
 - **Autonomous** - level 5 no human involvement, besides an emergency stop button 
