@@ -19,7 +19,7 @@ Part 2. Spend 10-20 minutes expounding on the following:
 ------------
 1. What did you accomplish in the last week?
 - Loi: Completed jetbot build
-- Loi: Peformed some tutorials
+- Loi: Peformed some tutorials - basic motion, teleoperation, collision avoidance, road tracking
 
 2. What roadblocks/issues did you face?
 - Loi: I upgraded jetbot software and it broke all the tutorials, they would not run.  I had to install the original software again.
