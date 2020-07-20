@@ -23,7 +23,7 @@ Part 2. Spend 10-20 minutes expounding on the following:
 
 2. What roadblocks/issues did you face?
 - Loi: I upgraded jetbot software and it broke all the tutorials, they would not run.  I had to install the original software again.
-- Loi: The road following tutorial is very slow, the jetbot takes very long to udpate the camera, making it very time consuming to collect training data.
+- Loi: The road following tutorial is very slow, the jetbot takes very long to udpate the camera, making it very time consuming to collect training data.  This issue is ongoing.
 
 3. What do you hope to accomplish in the coming week?
 - Complete the training data set based on road following demo, to use for the project
