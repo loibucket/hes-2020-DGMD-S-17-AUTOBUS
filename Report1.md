@@ -10,7 +10,7 @@ Part 1. To keep track of all the activities related to the development of your p
 
 5. Any other resources we will need to access such as a youtube channel, etc? Please mention them here if it is applicable.
 
-  **All documents and files are posted to Github at https://github.com/loibucket/autobus/
+  **All documents and files are posted to Github at https://github.com/loibucket/autobus/**
 
 Part 2. Spend 10-20 minutes expounding on the following:
 ------------
