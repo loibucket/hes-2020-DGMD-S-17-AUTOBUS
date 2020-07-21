@@ -24,6 +24,7 @@ Part 2. Spend 10-20 minutes expounding on the following:
 - Philip: Finished hardware setup, solved various issues with hardware
 - Nate: Completed hardware setup, and started software setup.
 - Nate: Began researching color and object detection for use in starting, stopping and speed control.
+- Eric: assumbling jetbot build, hardware setup
 
 2. What roadblocks/issues did you face?
 - Loi: I upgraded jetbot software and it broke all the tutorials, they would not run.  I had to install the original software again.
@@ -32,11 +33,13 @@ Part 2. Spend 10-20 minutes expounding on the following:
 - Nate: My first jetson nano developer had non-functioning usb parts, so I ordered various parts to try and fix it.
 - Nate: I was unable to work around the loss of usb port issues, so I ordered a new jetson nano developer kit.
 - Nate: The jetson nano developer kit came damaged, so I had to return it. I am waiting on the new one to arrive tomorrow.
+- Eric: hardware parts issues was incorrect, had to order replacement power supply.
 
 3. What do you hope to accomplish in the coming week?
 - Complete the training data set based on road following demo, to use for the project
 - Nate: Replace jetson nano developer kit with new one, and setup software for functionality.
 - Nate: Run all nvidia examples to catch-up with Loi to start next steps.
 - Nate: Begin coding out object and color detection models for use in starting, stopping and speed control.
+- Eric: implement sample route operation. 
 
 4. What percentage of the project is done at the time of you submitting this report? ___10_______%
