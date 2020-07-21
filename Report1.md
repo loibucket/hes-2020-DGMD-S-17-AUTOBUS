@@ -36,7 +36,7 @@ Part 2. Spend 10-20 minutes expounding on the following:
 - Eric: hardware parts issues was incorrect, had to order replacement power supply.
 
 3. What do you hope to accomplish in the coming week?
-- Complete the training data set based on road following demo, to use for the project
+- Loi: Complete the training data set based on road following demo, to use for the project
 - Nate: Replace jetson nano developer kit with new one, and setup software for functionality.
 - Nate: Run all nvidia examples to catch-up with Loi to start next steps.
 - Nate: Begin coding out object and color detection models for use in starting, stopping and speed control.
