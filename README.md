@@ -1,3 +1,6 @@
+NEW - Youtube Videos https://www.youtube.com/playlist?list=PLTYbYk3zLkkuyoNn0rVDUSYoethEkmMeJ
+-----
+
 # AutoBUS/VRS: Autonomous Basic Universal Shuttle / Virtual Rail System
 2020 DGMDS17 Robotics, Autonomous Vehicles, Drones, and Artificial Intelligence @ Harvard University Extension School
 
