@@ -1,0 +1,10 @@
+*.engine
+*.pth
+.ipynb_checkpoints
+.DS_Store
+.vscode
+__pycache__
+*.jpeg
+*.jpg
+*.png
+*.mov
