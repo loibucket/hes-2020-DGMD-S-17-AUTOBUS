@@ -48,3 +48,6 @@ Part 2. Spend 10-20 minutes expounding on the following:
 - All: Work on final project documentation and presentation with the team.
 
 4. What percentage of the project is done at the time of you submitting this report? ___75_______%
+
+5. Submit a video (mp4) of the latest capabilities you can demonstrate for your project  for this week
+Rail following https://youtu.be/kJjSxVeMNMY
