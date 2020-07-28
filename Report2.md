@@ -26,6 +26,7 @@ Part 2. Spend 10-20 minutes expounding on the following:
 - Nate: Researched further color and object detection for use in starting, stopping and speed control.
 - Eric: assumbling jetbot build, hardware setup
 - Yikun: Finished jetbot build and software setup. Completed tutorials - basic motion, teleoperation, collision avoidance, and object following.
+- Yikun: Started data collection for road following features - a prototype of road following features in autobus implementation. Started training the collected dataset for test drives.
 
 2. What roadblocks/issues did you face?
 - Loi: I upgraded jetbot software and it broke all the tutorials, they would not run.  I had to install the original software again.
