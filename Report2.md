@@ -25,7 +25,7 @@ Part 2. Spend 10-20 minutes expounding on the following:
 - Nate: Completed software setup, and ran all four tutorials.
 - Nate: Researched further color and object detection for use in starting, stopping and speed control.
 - Eric: assumbling jetbot build, hardware setup
-- Yikun: Finalizing hardware setup. Researching on strong lighting conditions and object detection.
+- Yikun: Finished jetbot build and software setup. Completed tutorials - basic motion, teleoperation, collision avoidance, and object following.
 
 2. What roadblocks/issues did you face?
 - Loi: I upgraded jetbot software and it broke all the tutorials, they would not run.  I had to install the original software again.
@@ -35,14 +35,15 @@ Part 2. Spend 10-20 minutes expounding on the following:
 - Nate: Issues with wifi connection setup, and also with software setup guide not being as straightforward as could have been.
 - Nate: Missing chunks of code in Nvidia jetbot tutorial notebooks, which needed to be troubleshot to resolve.
 - Eric: hardware parts issues was incorrect, had to order replacement power supply.
-- Yikun: Nano screw to the system were not exact fit with the motor cover. Had to modify the equipments.
+- Yikun: My bot's right motor was broken. I had to order another motor from Adafruit and reassemble the motor part in my bot. I also reorderd batteries.
+- Yikun: The camera was laggy at first, so my collision avoidance was not performing well. I adjusted camera refresh rate and motor speed, and the images were able to catch up with the motion of the bot and I got better-than-expected results at the end.
 
 3. What do you hope to accomplish in the coming week?
 - Loi: Complete the training data set based on road following demo, to use for the project
 - Nate: Video and submit finished tutorials of jetbot running them.
 - Nate: Build ML model for color and object detection for use in starting, stopping and speed control.
 - Eric: implement sample route operation. 
-- Yikun: Finish test tutorials, construct the road prototype for test drive, and research on vision modules.
+- Yikun: Construct the road prototype at my home for test drive, and finalize road-following modules on blankets setup to simulate a bus scneario in desert regions.
 - All: Work on final project documentation and presentation with the team.
 
 4. What percentage of the project is done at the time of you submitting this report? ___75_______%
