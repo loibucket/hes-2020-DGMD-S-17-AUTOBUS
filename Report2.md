@@ -38,7 +38,7 @@ Part 2. Spend 10-20 minutes expounding on the following:
 - Yikun: The camera was laggy at first, so my collision avoidance was not performing well. I adjusted camera refresh rate and motor speed, and the images were able to catch up with the motion of the bot and I got better-than-expected results at the end.
 
 3. What do you hope to accomplish in the coming week?
-- Loi: Build image recognition to stop jetbot
+- Loi: Improve rail following stability, build image recognition to stop jetbot
 - Nate: Video and submit finished tutorials of jetbot running them.
 - Nate: Build ML model for color and object detection for use in starting, stopping and speed control.
 - Eric: Build ML model, create and tag images for additional training to develop better models.  
