@@ -21,7 +21,7 @@ Part 2. Spend 10-20 minutes expounding on the following:
 1. What did you accomplish in the last week?
 - Loi: Completed jetbot build
 - Loi: Peformed some tutorials - basic motion, teleoperation, collision avoidance, road tracking
-- Philip: Finished hardware setup, solved various issues with hardware
+- Philip: Finished tutorials
 - Nate: Completed software setup, and ran all four tutorials.
 - Nate: Researched further color and object detection for use in starting, stopping and speed control.
 - Eric: assumbling jetbot build, hardware setup
