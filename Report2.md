@@ -31,7 +31,7 @@ Part 2. Spend 10-20 minutes expounding on the following:
 - Loi: I upgraded jetbot software and it broke all the tutorials, they would not run.  I had to install the original software again.
 - Loi: The road following tutorial is very slow, the jetbot takes very long to udpate the camera, making it very time consuming to collect training data.  This issue is ongoing.
 - Philip: The kit shipped with incorrect and non fitting parts, it took a while for new ones to be delivered
-- Nate: My first jetson nano developer had non-functioning usb parts, so I ordered various parts to try and fix it.
+- Nate: Replaced broken jetson nano board with new replacement board I ordered, and tested to ensure it worked.
 - Nate: Issues with wifi connection setup, and also with software setup guide not being as straightforward as could have been.
 - Nate: Missing chunks of code in Nvidia jetbot tutorial notebooks, which needed to be troubleshot to resolve.
 - Eric: hardware parts issues was incorrect, had to order replacement power supply.
