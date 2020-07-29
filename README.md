@@ -6,7 +6,7 @@ Presentation \
 https://docs.google.com/presentation/d/10LFk_o14cNHeaaUxAA70tnt01ARdzZJIxLA5TWfp9yE/edit?usp=sharing
 ---
 
-Report \ 
+Report \
 https://docs.google.com/document/d/1VYLvBvQ7bZXdQPPfVd06MRKNijMPYGB9ol4a7eYiFBc/edit?usp=sharing
 ---
 
