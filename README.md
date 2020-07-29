@@ -2,6 +2,10 @@ Youtube Videos \
 https://www.youtube.com/playlist?list=PLTYbYk3zLkkuyoNn0rVDUSYoethEkmMeJ
 -----
 
+Presentation \
+https://docs.google.com/presentation/d/10LFk_o14cNHeaaUxAA70tnt01ARdzZJIxLA5TWfp9yE/edit?usp=sharing
+---
+
 # AutoBUS / VRS: Autonomous Basic Universal Shuttle / Virtual Rail System
 2020 DGMDS17 Robotics, Autonomous Vehicles, Drones, and Artificial Intelligence @ Harvard University Extension School
 
