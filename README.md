@@ -1,4 +1,4 @@
-Youtube Videos \
+Videos \
 https://www.youtube.com/playlist?list=PLTYbYk3zLkkuyoNn0rVDUSYoethEkmMeJ
 -----
 
@@ -10,7 +10,7 @@ Report \
 https://docs.google.com/document/d/1VYLvBvQ7bZXdQPPfVd06MRKNijMPYGB9ol4a7eYiFBc/edit?usp=sharing
 ---
 
-# AutoBUS / VRS: Autonomous Basic Universal Shuttle / Virtual Rail System
+# AutoBUS VRS | Autonomous Basic Universal Shuttle Virtual Rail System
 2020 DGMDS17 Robotics, Autonomous Vehicles, Drones, and Artificial Intelligence @ Harvard University Extension School
 
 **Final Project Overview:** The objective of the final project is to take a deep dive in one topic of interest. You’ll practice: project development, collaboration, documentation, system integration. We encourage students to work in teams of 3 or 4 members. With team work you may be able to advance faster in the problem you will trying to solve and have an enriched experience very useful in the future. We can identify 4 areas for research projects:
