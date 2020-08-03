@@ -10,7 +10,7 @@ Report
 ---
 ### https://docs.google.com/document/d/1VYLvBvQ7bZXdQPPfVd06MRKNijMPYGB9ol4a7eYiFBc/
 
-###Important: Fix camera tint
+### Important: Fix camera tint
 https://medium.com/@jonathantse/fix-pink-tint-on-jetson-nano-wide-angle-camera-a8ce5fbd797f
 
 # AutoBUS VRS | Autonomous Basic Universal Shuttle Virtual Rail System
